@@ -1,3 +1,10 @@
+<!--
+ * @Descripttion: 
+ * @version: 1.0
+ * @Author: cwyy
+ * @Date: 2023-03-01 14:36:34
+ * @LastEditTime: 2023-03-01 21:39:05
+-->
 <template>
   <div class="about">
     <h1>This is an about page</h1>

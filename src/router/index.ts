@@ -3,7 +3,7 @@
  * @version: 1.0
  * @Author: cwyy
  * @Date: 2023-03-01 14:36:34
- * @LastEditTime: 2023-03-01 20:03:34
+ * @LastEditTime: 2023-03-01 21:32:59
  */
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 import Home from '../views/Home.vue'
